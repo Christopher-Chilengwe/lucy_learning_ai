@@ -1,4 +1,4 @@
-# Internet Learning AI with Medical Integration
+# Lucy Learning AI with Medical Integration
 
 This project implements an AI agent that learns by scraping the web and processing natural language with a focus on healthcare applications. It integrates Q-learning with medical data to enhance decision-making and knowledge extraction.
 
