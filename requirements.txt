@@ -1,0 +1,7 @@
+tensorflow
+transformers
+beautifulsoup4
+requests
+spacy
+networkx
+pandas
